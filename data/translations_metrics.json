@@ -13,21 +13,21 @@
   },
   "en": {
     "language": "English",
-    "total_strings": 750,
-    "translated_strings": 750,
+    "total_strings": 751,
+    "translated_strings": 751,
     "translated_percent": 100.0
   },
   "bg": {
     "language": "Bulgarian",
-    "total_strings": 720,
+    "total_strings": 721,
     "translated_strings": 504,
-    "translated_percent": 70.0
+    "translated_percent": 69.9
   },
   "de": {
     "language": "German",
     "total_strings": 716,
-    "translated_strings": 716,
-    "translated_percent": 100.0
+    "translated_strings": 715,
+    "translated_percent": 99.8
   },
   "es": {
     "language": "Spanish",
@@ -38,14 +38,14 @@
   "fr": {
     "language": "French",
     "total_strings": 716,
-    "translated_strings": 693,
-    "translated_percent": 96.7
+    "translated_strings": 692,
+    "translated_percent": 96.6
   },
   "hi": {
     "language": "Hindi",
-    "total_strings": 737,
+    "total_strings": 738,
     "translated_strings": 483,
-    "translated_percent": 65.5
+    "translated_percent": 65.4
   },
   "ka": {
     "language": "Georgian",
@@ -67,15 +67,15 @@
   },
   "pt_BR": {
     "language": "Portuguese (Brazil)",
-    "total_strings": 716,
+    "total_strings": 717,
     "translated_strings": 539,
-    "translated_percent": 75.2
+    "translated_percent": 75.1
   },
   "ru": {
     "language": "Russian",
     "total_strings": 716,
-    "translated_strings": 659,
-    "translated_percent": 92.0
+    "translated_strings": 658,
+    "translated_percent": 91.8
   },
   "sk": {
     "language": "Slovak",
@@ -86,8 +86,8 @@
   "uk": {
     "language": "Ukrainian",
     "total_strings": 716,
-    "translated_strings": 716,
-    "translated_percent": 100.0
+    "translated_strings": 715,
+    "translated_percent": 99.8
   },
   "zh": {
     "language": "Chinese (Simplified Han script)",
@@ -98,8 +98,8 @@
   "hr": {
     "language": "Croatian",
     "total_strings": 716,
-    "translated_strings": 716,
-    "translated_percent": 100.0
+    "translated_strings": 715,
+    "translated_percent": 99.8
   },
   "af": {
     "language": "Afrikaans",
@@ -145,9 +145,9 @@
   },
   "ca": {
     "language": "Catalan",
-    "total_strings": 720,
+    "total_strings": 721,
     "translated_strings": 477,
-    "translated_percent": 66.2
+    "translated_percent": 66.1
   },
   "ckb": {
     "language": "Kurdish (Central)",
@@ -182,8 +182,8 @@
   "en_GB": {
     "language": "English (United Kingdom)",
     "total_strings": 716,
-    "translated_strings": 610,
-    "translated_percent": 85.1
+    "translated_strings": 609,
+    "translated_percent": 85.0
   },
   "eo": {
     "language": "Esperanto",
@@ -308,8 +308,8 @@
   "lv": {
     "language": "Latvian",
     "total_strings": 716,
-    "translated_strings": 645,
-    "translated_percent": 90.0
+    "translated_strings": 644,
+    "translated_percent": 89.9
   },
   "mg": {
     "language": "Malagasy",
@@ -355,9 +355,9 @@
   },
   "nb": {
     "language": "Norwegian Bokmål",
-    "total_strings": 720,
+    "total_strings": 721,
     "translated_strings": 692,
-    "translated_percent": 96.1
+    "translated_percent": 95.9
   },
   "nn": {
     "language": "Norwegian Nynorsk",
@@ -476,8 +476,8 @@
   "vi": {
     "language": "Vietnamese",
     "total_strings": 716,
-    "translated_strings": 663,
-    "translated_percent": 92.5
+    "translated_strings": 662,
+    "translated_percent": 92.4
   },
   "zu": {
     "language": "Zulu",
@@ -488,8 +488,8 @@
   "zh_Hant": {
     "language": "Chinese (Traditional Han script)",
     "total_strings": 716,
-    "translated_strings": 716,
-    "translated_percent": 100.0
+    "translated_strings": 715,
+    "translated_percent": 99.8
   },
   "kab": {
     "language": "Kabyle",
@@ -500,12 +500,12 @@
   "pt_PT": {
     "language": "Portuguese (Portugal)",
     "total_strings": 716,
-    "translated_strings": 662,
-    "translated_percent": 92.4
+    "translated_strings": 661,
+    "translated_percent": 92.3
   },
   "kw": {
     "language": "Cornish",
-    "total_strings": 720,
+    "total_strings": 721,
     "translated_strings": 0,
     "translated_percent": 0.0
   }
