@@ -26,8 +26,8 @@
   "de": {
     "language": "German",
     "total_strings": 716,
-    "translated_strings": 715,
-    "translated_percent": 99.8
+    "translated_strings": 716,
+    "translated_percent": 100.0
   },
   "es": {
     "language": "Spanish",
@@ -398,8 +398,8 @@
   "sl": {
     "language": "Slovenian",
     "total_strings": 716,
-    "translated_strings": 0,
-    "translated_percent": 0.0
+    "translated_strings": 2,
+    "translated_percent": 0.2
   },
   "sma": {
     "language": "Sami (Southern)",
@@ -488,8 +488,8 @@
   "zh_Hant": {
     "language": "Chinese (Traditional Han script)",
     "total_strings": 716,
-    "translated_strings": 715,
-    "translated_percent": 99.8
+    "translated_strings": 716,
+    "translated_percent": 100.0
   },
   "kab": {
     "language": "Kabyle",
