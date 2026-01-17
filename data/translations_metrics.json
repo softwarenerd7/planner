@@ -266,8 +266,8 @@
   "ja": {
     "language": "Japanese",
     "total_strings": 717,
-    "translated_strings": 1,
-    "translated_percent": 0.1
+    "translated_strings": 60,
+    "translated_percent": 8.3
   },
   "jv": {
     "language": "Javanese",
@@ -374,8 +374,8 @@
   "pl": {
     "language": "Polish",
     "total_strings": 717,
-    "translated_strings": 54,
-    "translated_percent": 7.5
+    "translated_strings": 89,
+    "translated_percent": 12.4
   },
   "ro": {
     "language": "Romanian",
