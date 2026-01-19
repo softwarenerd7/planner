@@ -32,8 +32,8 @@
   "es": {
     "language": "Spanish",
     "total_strings": 717,
-    "translated_strings": 661,
-    "translated_percent": 92.1
+    "translated_strings": 666,
+    "translated_percent": 92.8
   },
   "fr": {
     "language": "French",
@@ -260,8 +260,8 @@
   "it": {
     "language": "Italian",
     "total_strings": 717,
-    "translated_strings": 232,
-    "translated_percent": 32.3
+    "translated_strings": 308,
+    "translated_percent": 42.9
   },
   "ja": {
     "language": "Japanese",
