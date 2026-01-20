@@ -13,8 +13,8 @@
   },
   "en": {
     "language": "English",
-    "total_strings": 717,
-    "translated_strings": 717,
+    "total_strings": 719,
+    "translated_strings": 719,
     "translated_percent": 100.0
   },
   "bg": {
@@ -37,9 +37,9 @@
   },
   "fr": {
     "language": "French",
-    "total_strings": 717,
-    "translated_strings": 692,
-    "translated_percent": 96.5
+    "total_strings": 719,
+    "translated_strings": 698,
+    "translated_percent": 97.0
   },
   "hi": {
     "language": "Hindi",
