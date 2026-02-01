@@ -32,8 +32,8 @@
   "es": {
     "language": "Spanish",
     "total_strings": 727,
-    "translated_strings": 666,
-    "translated_percent": 91.6
+    "translated_strings": 715,
+    "translated_percent": 98.3
   },
   "fr": {
     "language": "French",
@@ -398,8 +398,8 @@
   "sl": {
     "language": "Slovenian",
     "total_strings": 727,
-    "translated_strings": 216,
-    "translated_percent": 29.7
+    "translated_strings": 238,
+    "translated_percent": 32.7
   },
   "sma": {
     "language": "Sami (Southern)",
@@ -488,8 +488,8 @@
   "zh_Hant": {
     "language": "Chinese (Traditional Han script)",
     "total_strings": 727,
-    "translated_strings": 723,
-    "translated_percent": 99.4
+    "translated_strings": 727,
+    "translated_percent": 100.0
   },
   "kab": {
     "language": "Kabyle",
