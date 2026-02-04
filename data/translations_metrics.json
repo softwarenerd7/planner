@@ -116,8 +116,8 @@
   "ar": {
     "language": "Arabic",
     "total_strings": 727,
-    "translated_strings": 103,
-    "translated_percent": 14.1
+    "translated_strings": 104,
+    "translated_percent": 14.3
   },
   "az": {
     "language": "Azerbaijani",
@@ -374,8 +374,8 @@
   "pl": {
     "language": "Polish",
     "total_strings": 727,
-    "translated_strings": 89,
-    "translated_percent": 12.2
+    "translated_strings": 103,
+    "translated_percent": 14.1
   },
   "ro": {
     "language": "Romanian",
