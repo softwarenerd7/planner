@@ -74,8 +74,8 @@
   "ru": {
     "language": "Russian",
     "total_strings": 727,
-    "translated_strings": 652,
-    "translated_percent": 89.6
+    "translated_strings": 727,
+    "translated_percent": 100.0
   },
   "sk": {
     "language": "Slovak",
@@ -422,8 +422,8 @@
   "sv": {
     "language": "Swedish",
     "total_strings": 727,
-    "translated_strings": 164,
-    "translated_percent": 22.5
+    "translated_strings": 176,
+    "translated_percent": 24.2
   },
   "szl": {
     "language": "Silesian",
