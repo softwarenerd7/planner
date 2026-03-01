@@ -98,8 +98,8 @@
   "hr": {
     "language": "Croatian",
     "total_strings": 727,
-    "translated_strings": 725,
-    "translated_percent": 99.7
+    "translated_strings": 727,
+    "translated_percent": 100.0
   },
   "af": {
     "language": "Afrikaans",
@@ -182,8 +182,8 @@
   "en_GB": {
     "language": "English (United Kingdom)",
     "total_strings": 727,
-    "translated_strings": 604,
-    "translated_percent": 83.0
+    "translated_strings": 616,
+    "translated_percent": 84.7
   },
   "eo": {
     "language": "Esperanto",
