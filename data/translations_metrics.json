@@ -2,8 +2,8 @@
   "nl": {
     "language": "Dutch",
     "total_strings": 727,
-    "translated_strings": 713,
-    "translated_percent": 98.0
+    "translated_strings": 718,
+    "translated_percent": 98.7
   },
   "tr": {
     "language": "Turkish",
@@ -505,6 +505,12 @@
   },
   "kw": {
     "language": "Cornish",
+    "total_strings": 727,
+    "translated_strings": 0,
+    "translated_percent": 0.0
+  },
+  "dum": {
+    "language": "Dutch (Middle)",
     "total_strings": 727,
     "translated_strings": 0,
     "translated_percent": 0.0
