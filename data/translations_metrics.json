@@ -68,8 +68,8 @@
   "pt_BR": {
     "language": "Portuguese (Brazil)",
     "total_strings": 727,
-    "translated_strings": 576,
-    "translated_percent": 79.2
+    "translated_strings": 578,
+    "translated_percent": 79.5
   },
   "ru": {
     "language": "Russian",
@@ -260,8 +260,8 @@
   "it": {
     "language": "Italian",
     "total_strings": 727,
-    "translated_strings": 304,
-    "translated_percent": 41.8
+    "translated_strings": 465,
+    "translated_percent": 63.9
   },
   "ja": {
     "language": "Japanese",
