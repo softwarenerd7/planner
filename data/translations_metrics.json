@@ -92,8 +92,8 @@
   "zh": {
     "language": "Chinese (Simplified Han script)",
     "total_strings": 727,
-    "translated_strings": 127,
-    "translated_percent": 17.4
+    "translated_strings": 128,
+    "translated_percent": 17.6
   },
   "hr": {
     "language": "Croatian",
@@ -260,8 +260,8 @@
   "it": {
     "language": "Italian",
     "total_strings": 727,
-    "translated_strings": 475,
-    "translated_percent": 65.3
+    "translated_strings": 477,
+    "translated_percent": 65.6
   },
   "ja": {
     "language": "Japanese",
