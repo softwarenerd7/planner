@@ -260,8 +260,8 @@
   "it": {
     "language": "Italian",
     "total_strings": 770,
-    "translated_strings": 501,
-    "translated_percent": 65.0
+    "translated_strings": 504,
+    "translated_percent": 65.4
   },
   "ja": {
     "language": "Japanese",
@@ -494,8 +494,8 @@
   "pt_PT": {
     "language": "Portuguese (Portugal)",
     "total_strings": 766,
-    "translated_strings": 724,
-    "translated_percent": 94.5
+    "translated_strings": 766,
+    "translated_percent": 100.0
   },
   "kw": {
     "language": "Cornish",
