@@ -86,8 +86,8 @@
   "uk": {
     "language": "Ukrainian",
     "total_strings": 766,
-    "translated_strings": 724,
-    "translated_percent": 94.5
+    "translated_strings": 729,
+    "translated_percent": 95.1
   },
   "zh": {
     "language": "Chinese (Simplified Han script)",
@@ -482,8 +482,8 @@
   "zh_Hant": {
     "language": "Chinese (Traditional Han script)",
     "total_strings": 770,
-    "translated_strings": 746,
-    "translated_percent": 96.8
+    "translated_strings": 770,
+    "translated_percent": 100.0
   },
   "kab": {
     "language": "Kabyle",
