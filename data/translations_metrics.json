@@ -2,8 +2,8 @@
   "nl": {
     "language": "Dutch",
     "total_strings": 765,
-    "translated_strings": 709,
-    "translated_percent": 92.6
+    "translated_strings": 714,
+    "translated_percent": 93.3
   },
   "tr": {
     "language": "Turkish",
@@ -86,8 +86,8 @@
   "uk": {
     "language": "Ukrainian",
     "total_strings": 765,
-    "translated_strings": 723,
-    "translated_percent": 94.5
+    "translated_strings": 765,
+    "translated_percent": 100.0
   },
   "zh": {
     "language": "Chinese (Simplified Han script)",
@@ -488,14 +488,14 @@
   "kab": {
     "language": "Kabyle",
     "total_strings": 765,
-    "translated_strings": 100,
-    "translated_percent": 13.0
+    "translated_strings": 105,
+    "translated_percent": 13.7
   },
   "pt_PT": {
     "language": "Portuguese (Portugal)",
     "total_strings": 765,
-    "translated_strings": 760,
-    "translated_percent": 99.3
+    "translated_strings": 765,
+    "translated_percent": 100.0
   },
   "kw": {
     "language": "Cornish",
