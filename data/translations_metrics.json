@@ -68,8 +68,8 @@
   "pt_BR": {
     "language": "Portuguese (Brazil)",
     "total_strings": 788,
-    "translated_strings": 570,
-    "translated_percent": 72.3
+    "translated_strings": 571,
+    "translated_percent": 72.4
   },
   "ru": {
     "language": "Russian",
@@ -86,8 +86,8 @@
   "uk": {
     "language": "Ukrainian",
     "total_strings": 788,
-    "translated_strings": 783,
-    "translated_percent": 99.3
+    "translated_strings": 788,
+    "translated_percent": 100.0
   },
   "zh": {
     "language": "Chinese (Simplified Han script)",
@@ -260,8 +260,8 @@
   "it": {
     "language": "Italian",
     "total_strings": 788,
-    "translated_strings": 495,
-    "translated_percent": 62.8
+    "translated_strings": 519,
+    "translated_percent": 65.8
   },
   "ja": {
     "language": "Japanese",
