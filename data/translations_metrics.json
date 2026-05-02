@@ -86,8 +86,8 @@
   "uk": {
     "language": "Ukrainian",
     "total_strings": 798,
-    "translated_strings": 788,
-    "translated_percent": 98.7
+    "translated_strings": 798,
+    "translated_percent": 100.0
   },
   "zh": {
     "language": "Chinese (Simplified Han script)",
@@ -260,8 +260,8 @@
   "it": {
     "language": "Italian",
     "total_strings": 798,
-    "translated_strings": 530,
-    "translated_percent": 66.4
+    "translated_strings": 554,
+    "translated_percent": 69.4
   },
   "ja": {
     "language": "Japanese",
