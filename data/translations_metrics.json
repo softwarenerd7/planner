@@ -206,8 +206,8 @@
   "fa": {
     "language": "Persian",
     "total_strings": 798,
-    "translated_strings": 0,
-    "translated_percent": 0.0
+    "translated_strings": 1,
+    "translated_percent": 0.1
   },
   "fi": {
     "language": "Finnish",
