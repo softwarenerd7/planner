@@ -86,14 +86,14 @@
   "uk": {
     "language": "Ukrainian",
     "total_strings": 819,
-    "translated_strings": 793,
-    "translated_percent": 96.8
+    "translated_strings": 794,
+    "translated_percent": 96.9
   },
   "zh": {
     "language": "Chinese (Simplified Han script)",
     "total_strings": 819,
-    "translated_strings": 130,
-    "translated_percent": 15.8
+    "translated_strings": 287,
+    "translated_percent": 35.0
   },
   "hr": {
     "language": "Croatian",
