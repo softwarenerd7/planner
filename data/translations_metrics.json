@@ -68,8 +68,8 @@
   "pt_BR": {
     "language": "Portuguese (Brazil)",
     "total_strings": 819,
-    "translated_strings": 565,
-    "translated_percent": 68.9
+    "translated_strings": 658,
+    "translated_percent": 80.3
   },
   "ru": {
     "language": "Russian",
@@ -92,8 +92,8 @@
   "zh": {
     "language": "Chinese (Simplified Han script)",
     "total_strings": 819,
-    "translated_strings": 287,
-    "translated_percent": 35.0
+    "translated_strings": 348,
+    "translated_percent": 42.4
   },
   "hr": {
     "language": "Croatian",
