@@ -92,8 +92,8 @@
   "zh": {
     "language": "Chinese (Simplified Han script)",
     "total_strings": 819,
-    "translated_strings": 348,
-    "translated_percent": 42.4
+    "translated_strings": 450,
+    "translated_percent": 54.9
   },
   "hr": {
     "language": "Croatian",
@@ -194,8 +194,8 @@
   "et": {
     "language": "Estonian",
     "total_strings": 819,
-    "translated_strings": 365,
-    "translated_percent": 44.5
+    "translated_strings": 456,
+    "translated_percent": 55.6
   },
   "eu": {
     "language": "Basque",
@@ -260,8 +260,8 @@
   "it": {
     "language": "Italian",
     "total_strings": 819,
-    "translated_strings": 573,
-    "translated_percent": 69.9
+    "translated_strings": 598,
+    "translated_percent": 73.0
   },
   "ja": {
     "language": "Japanese",
