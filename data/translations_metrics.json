@@ -26,8 +26,8 @@
   "de": {
     "language": "German",
     "total_strings": 841,
-    "translated_strings": 829,
-    "translated_percent": 98.5
+    "translated_strings": 830,
+    "translated_percent": 98.6
   },
   "es": {
     "language": "Spanish",
@@ -92,8 +92,8 @@
   "zh": {
     "language": "Chinese (Simplified Han script)",
     "total_strings": 841,
-    "translated_strings": 817,
-    "translated_percent": 97.1
+    "translated_strings": 821,
+    "translated_percent": 97.6
   },
   "hr": {
     "language": "Croatian",
