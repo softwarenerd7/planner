@@ -86,8 +86,8 @@
   "uk": {
     "language": "Ukrainian",
     "total_strings": 841,
-    "translated_strings": 796,
-    "translated_percent": 94.6
+    "translated_strings": 813,
+    "translated_percent": 96.6
   },
   "zh": {
     "language": "Chinese (Simplified Han script)",
@@ -248,8 +248,8 @@
   "id": {
     "language": "Indonesian",
     "total_strings": 841,
-    "translated_strings": 695,
-    "translated_percent": 82.6
+    "translated_strings": 841,
+    "translated_percent": 100.0
   },
   "is": {
     "language": "Icelandic",
