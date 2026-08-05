@@ -1,511 +1,511 @@
 {
   "nl": {
     "language": "Dutch",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 721,
-    "translated_percent": 85.7
+    "translated_percent": 85.4
   },
   "tr": {
     "language": "Turkish",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 512,
-    "translated_percent": 60.8
+    "translated_percent": 60.6
   },
   "en": {
     "language": "English",
-    "total_strings": 841,
-    "translated_strings": 841,
+    "total_strings": 844,
+    "translated_strings": 844,
     "translated_percent": 100.0
   },
   "bg": {
     "language": "Bulgarian",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 484,
-    "translated_percent": 57.5
+    "translated_percent": 57.3
   },
   "de": {
     "language": "German",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 830,
-    "translated_percent": 98.6
+    "translated_percent": 98.3
   },
   "es": {
     "language": "Spanish",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 693,
-    "translated_percent": 82.4
+    "translated_percent": 82.1
   },
   "fr": {
     "language": "French",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 713,
-    "translated_percent": 84.7
+    "translated_percent": 84.4
   },
   "hi": {
     "language": "Hindi",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 454,
-    "translated_percent": 53.9
+    "translated_percent": 53.7
   },
   "ka": {
     "language": "Georgian",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 472,
-    "translated_percent": 56.1
+    "translated_percent": 55.9
   },
   "kk": {
     "language": "Kazakh",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 481,
-    "translated_percent": 57.1
+    "translated_percent": 56.9
   },
   "ko": {
     "language": "Korean",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 432,
-    "translated_percent": 51.3
+    "translated_percent": 51.1
   },
   "pt_BR": {
     "language": "Portuguese (Brazil)",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 658,
-    "translated_percent": 78.2
+    "translated_percent": 77.9
   },
   "ru": {
     "language": "Russian",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 702,
-    "translated_percent": 83.4
+    "translated_percent": 83.1
   },
   "sk": {
     "language": "Slovak",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 471,
-    "translated_percent": 56.0
+    "translated_percent": 55.8
   },
   "uk": {
     "language": "Ukrainian",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 813,
-    "translated_percent": 96.6
+    "translated_percent": 96.3
   },
   "zh": {
     "language": "Chinese (Simplified Han script)",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 821,
-    "translated_percent": 97.6
+    "translated_percent": 97.2
   },
   "hr": {
     "language": "Croatian",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 791,
-    "translated_percent": 94.0
+    "translated_percent": 93.7
   },
   "af": {
     "language": "Afrikaans",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 0,
     "translated_percent": 0.0
   },
   "ak": {
     "language": "Akan",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 0,
     "translated_percent": 0.0
   },
   "ar": {
     "language": "Arabic",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 104,
     "translated_percent": 12.3
   },
   "az": {
     "language": "Azerbaijani",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 0,
     "translated_percent": 0.0
   },
   "be": {
     "language": "Belarusian",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 0,
     "translated_percent": 0.0
   },
   "bn": {
     "language": "Bengali",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 0,
     "translated_percent": 0.0
   },
   "bs": {
     "language": "Bosnian",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 0,
     "translated_percent": 0.0
   },
   "ca": {
     "language": "Catalan",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 461,
-    "translated_percent": 54.8
+    "translated_percent": 54.6
   },
   "ckb": {
     "language": "Kurdish (Sorani)",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 0,
     "translated_percent": 0.0
   },
   "cs": {
     "language": "Czech",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 206,
     "translated_percent": 24.4
   },
   "cv": {
     "language": "Chuvash",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 0,
     "translated_percent": 0.0
   },
   "da": {
     "language": "Danish",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 817,
-    "translated_percent": 97.1
+    "translated_percent": 96.8
   },
   "el": {
     "language": "Greek",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 81,
-    "translated_percent": 9.6
+    "translated_percent": 9.5
   },
   "en_GB": {
     "language": "English (United Kingdom)",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 594,
-    "translated_percent": 70.6
+    "translated_percent": 70.3
   },
   "eo": {
     "language": "Esperanto",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 0,
     "translated_percent": 0.0
   },
   "et": {
     "language": "Estonian",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 456,
-    "translated_percent": 54.2
+    "translated_percent": 54.0
   },
   "eu": {
     "language": "Basque",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 1,
     "translated_percent": 0.1
   },
   "fa": {
     "language": "Persian",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 1,
     "translated_percent": 0.1
   },
   "fi": {
     "language": "Finnish",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 0,
     "translated_percent": 0.0
   },
   "ga": {
     "language": "Irish",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 0,
     "translated_percent": 0.0
   },
   "gl": {
     "language": "Galician",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 0,
     "translated_percent": 0.0
   },
   "he": {
     "language": "Hebrew",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 200,
-    "translated_percent": 23.7
+    "translated_percent": 23.6
   },
   "hu": {
     "language": "Hungarian",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 0,
     "translated_percent": 0.0
   },
   "hy": {
     "language": "Armenian",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 0,
     "translated_percent": 0.0
   },
   "id": {
     "language": "Indonesian",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 841,
-    "translated_percent": 100.0
+    "translated_percent": 99.6
   },
   "is": {
     "language": "Icelandic",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 0,
     "translated_percent": 0.0
   },
   "it": {
     "language": "Italian",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 601,
-    "translated_percent": 71.4
+    "translated_percent": 71.2
   },
   "ja": {
     "language": "Japanese",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 60,
     "translated_percent": 7.1
   },
   "jv": {
     "language": "Javanese",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 0,
     "translated_percent": 0.0
   },
   "kn": {
     "language": "Kannada",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 0,
     "translated_percent": 0.0
   },
   "ku": {
     "language": "Kurdish",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 1,
     "translated_percent": 0.1
   },
   "lb": {
     "language": "Luxembourgish",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 0,
     "translated_percent": 0.0
   },
   "lg": {
     "language": "Luganda",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 0,
     "translated_percent": 0.0
   },
   "lt": {
     "language": "Lithuanian",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 0,
     "translated_percent": 0.0
   },
   "lv": {
     "language": "Latvian",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 617,
-    "translated_percent": 73.3
+    "translated_percent": 73.1
   },
   "mg": {
     "language": "Malagasy",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 0,
     "translated_percent": 0.0
   },
   "mk": {
     "language": "Macedonian",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 0,
     "translated_percent": 0.0
   },
   "mn": {
     "language": "Mongolian",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 0,
     "translated_percent": 0.0
   },
   "mr": {
     "language": "Marathi",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 0,
     "translated_percent": 0.0
   },
   "ms": {
     "language": "Malay",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 0,
     "translated_percent": 0.0
   },
   "my": {
     "language": "Burmese",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 0,
     "translated_percent": 0.0
   },
   "nb": {
     "language": "Norwegian Bokmål",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 674,
-    "translated_percent": 80.1
+    "translated_percent": 79.8
   },
   "nn": {
     "language": "Norwegian Nynorsk",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 0,
     "translated_percent": 0.0
   },
   "pa": {
     "language": "Punjabi",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 0,
     "translated_percent": 0.0
   },
   "pl": {
     "language": "Polish",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 495,
-    "translated_percent": 58.8
+    "translated_percent": 58.6
   },
   "ro": {
     "language": "Romanian",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 0,
     "translated_percent": 0.0
   },
   "sa": {
     "language": "Sanskrit",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 0,
     "translated_percent": 0.0
   },
   "si": {
     "language": "Sinhala",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 0,
     "translated_percent": 0.0
   },
   "sl": {
     "language": "Slovenian",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 235,
-    "translated_percent": 27.9
+    "translated_percent": 27.8
   },
   "sma": {
     "language": "Sami (Southern)",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 0,
     "translated_percent": 0.0
   },
   "sq": {
     "language": "Albanian",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 0,
     "translated_percent": 0.0
   },
   "sr": {
     "language": "Serbian",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 0,
     "translated_percent": 0.0
   },
   "sv": {
     "language": "Swedish",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 175,
-    "translated_percent": 20.8
+    "translated_percent": 20.7
   },
   "szl": {
     "language": "Silesian",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 0,
     "translated_percent": 0.0
   },
   "ta": {
     "language": "Tamil",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 0,
     "translated_percent": 0.0
   },
   "te": {
     "language": "Telugu",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 0,
     "translated_percent": 0.0
   },
   "th": {
     "language": "Thai",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 0,
     "translated_percent": 0.0
   },
   "tl": {
     "language": "Tagalog",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 0,
     "translated_percent": 0.0
   },
   "ug": {
     "language": "Uyghur",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 0,
     "translated_percent": 0.0
   },
   "ur": {
     "language": "Urdu",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 0,
     "translated_percent": 0.0
   },
   "uz": {
     "language": "Uzbek",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 0,
     "translated_percent": 0.0
   },
   "vi": {
     "language": "Vietnamese",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 701,
-    "translated_percent": 83.3
+    "translated_percent": 83.0
   },
   "zu": {
     "language": "Zulu",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 0,
     "translated_percent": 0.0
   },
   "zh_Hant": {
     "language": "Chinese (Traditional Han script)",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 829,
-    "translated_percent": 98.5
+    "translated_percent": 98.2
   },
   "kab": {
     "language": "Kabyle",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 102,
-    "translated_percent": 12.1
+    "translated_percent": 12.0
   },
   "pt_PT": {
     "language": "Portuguese (Portugal)",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 781,
-    "translated_percent": 92.8
+    "translated_percent": 92.5
   },
   "kw": {
     "language": "Cornish",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 0,
     "translated_percent": 0.0
   },
   "dum": {
     "language": "Dutch (Middle)",
-    "total_strings": 841,
+    "total_strings": 844,
     "translated_strings": 0,
     "translated_percent": 0.0
   }
