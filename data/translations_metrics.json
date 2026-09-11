@@ -13,8 +13,8 @@
   },
   "en": {
     "language": "English",
-    "total_strings": 888,
-    "translated_strings": 888,
+    "total_strings": 887,
+    "translated_strings": 887,
     "translated_percent": 100.0
   },
   "bg": {
@@ -49,9 +49,9 @@
   },
   "ka": {
     "language": "Georgian",
-    "total_strings": 887,
-    "translated_strings": 565,
-    "translated_percent": 63.6
+    "total_strings": 880,
+    "translated_strings": 564,
+    "translated_percent": 64.0
   },
   "kk": {
     "language": "Kazakh",
@@ -73,9 +73,9 @@
   },
   "ru": {
     "language": "Russian",
-    "total_strings": 888,
-    "translated_strings": 803,
-    "translated_percent": 90.4
+    "total_strings": 880,
+    "translated_strings": 795,
+    "translated_percent": 90.3
   },
   "sk": {
     "language": "Slovak",
@@ -247,9 +247,9 @@
   },
   "id": {
     "language": "Indonesian",
-    "total_strings": 888,
-    "translated_strings": 841,
-    "translated_percent": 94.7
+    "total_strings": 880,
+    "translated_strings": 833,
+    "translated_percent": 94.6
   },
   "is": {
     "language": "Icelandic",
