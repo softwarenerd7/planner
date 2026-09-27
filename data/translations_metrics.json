@@ -8,8 +8,8 @@
   "tr": {
     "language": "Turkish",
     "total_strings": 888,
-    "translated_strings": 698,
-    "translated_percent": 78.6
+    "translated_strings": 730,
+    "translated_percent": 82.2
   },
   "en": {
     "language": "English",
@@ -68,8 +68,8 @@
   "pt_BR": {
     "language": "Portuguese (Brazil)",
     "total_strings": 881,
-    "translated_strings": 661,
-    "translated_percent": 75.0
+    "translated_strings": 687,
+    "translated_percent": 77.9
   },
   "ru": {
     "language": "Russian",
