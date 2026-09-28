@@ -86,8 +86,8 @@
   "uk": {
     "language": "Ukrainian",
     "total_strings": 887,
-    "translated_strings": 819,
-    "translated_percent": 92.3
+    "translated_strings": 855,
+    "translated_percent": 96.3
   },
   "zh": {
     "language": "Chinese (Simplified Han script)",
@@ -224,8 +224,8 @@
   "gl": {
     "language": "Galician",
     "total_strings": 881,
-    "translated_strings": 474,
-    "translated_percent": 53.8
+    "translated_strings": 504,
+    "translated_percent": 57.2
   },
   "he": {
     "language": "Hebrew",
