@@ -32,8 +32,8 @@
   "es": {
     "language": "Spanish",
     "total_strings": 881,
-    "translated_strings": 696,
-    "translated_percent": 79.0
+    "translated_strings": 702,
+    "translated_percent": 79.6
   },
   "fr": {
     "language": "French",
@@ -224,8 +224,8 @@
   "gl": {
     "language": "Galician",
     "total_strings": 881,
-    "translated_strings": 800,
-    "translated_percent": 90.8
+    "translated_strings": 802,
+    "translated_percent": 91.0
   },
   "he": {
     "language": "Hebrew",
