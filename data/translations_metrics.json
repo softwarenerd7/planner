@@ -158,8 +158,8 @@
   "cs": {
     "language": "Czech",
     "total_strings": 888,
-    "translated_strings": 258,
-    "translated_percent": 29.0
+    "translated_strings": 269,
+    "translated_percent": 30.2
   },
   "cv": {
     "language": "Chuvash",
@@ -236,8 +236,8 @@
   "hu": {
     "language": "Hungarian",
     "total_strings": 885,
-    "translated_strings": 0,
-    "translated_percent": 0.0
+    "translated_strings": 6,
+    "translated_percent": 0.6
   },
   "hy": {
     "language": "Armenian",
@@ -392,8 +392,8 @@
   "sl": {
     "language": "Slovenian",
     "total_strings": 885,
-    "translated_strings": 234,
-    "translated_percent": 26.4
+    "translated_strings": 236,
+    "translated_percent": 26.6
   },
   "sma": {
     "language": "Sami (Southern)",
