@@ -392,8 +392,8 @@
   "sl": {
     "language": "Slovenian",
     "total_strings": 885,
-    "translated_strings": 236,
-    "translated_percent": 26.6
+    "translated_strings": 885,
+    "translated_percent": 100.0
   },
   "sma": {
     "language": "Sami (Southern)",
