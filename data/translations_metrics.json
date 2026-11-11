@@ -223,8 +223,8 @@
   },
   "gl": {
     "language": "Galician",
-    "total_strings": 904,
-    "translated_strings": 863,
+    "total_strings": 907,
+    "translated_strings": 866,
     "translated_percent": 95.4
   },
   "he": {
@@ -494,8 +494,8 @@
   "pt_PT": {
     "language": "Portuguese (Portugal)",
     "total_strings": 904,
-    "translated_strings": 770,
-    "translated_percent": 85.1
+    "translated_strings": 880,
+    "translated_percent": 97.3
   },
   "kw": {
     "language": "Cornish",
