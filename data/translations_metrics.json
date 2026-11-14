@@ -26,8 +26,8 @@
   "de": {
     "language": "German",
     "total_strings": 907,
-    "translated_strings": 875,
-    "translated_percent": 96.4
+    "translated_strings": 899,
+    "translated_percent": 99.1
   },
   "es": {
     "language": "Spanish",
@@ -38,8 +38,8 @@
   "fr": {
     "language": "French",
     "total_strings": 907,
-    "translated_strings": 732,
-    "translated_percent": 80.7
+    "translated_strings": 737,
+    "translated_percent": 81.2
   },
   "hi": {
     "language": "Hindi",
